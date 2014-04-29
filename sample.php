@@ -1,0 +1,11 @@
+<?PHP
+
+echo phpinfo();
+
+
+
+?>
+
+
+
+
